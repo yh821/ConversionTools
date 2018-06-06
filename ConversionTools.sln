@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelConvertor", "ExcelConvertor\ExcelConvertor.csproj", "{F3FC862A-F477-4562-B17F-133D5B8E60FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageConvertor", "LanguageConvertor\LanguageConvertor.csproj", "{CA05AFCE-D949-4AB1-9BFA-682CA9C781E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FC862A-F477-4562-B17F-133D5B8E60FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FC862A-F477-4562-B17F-133D5B8E60FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FC862A-F477-4562-B17F-133D5B8E60FD}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{F3FC862A-F477-4562-B17F-133D5B8E60FD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F3FC862A-F477-4562-B17F-133D5B8E60FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FC862A-F477-4562-B17F-133D5B8E60FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FC862A-F477-4562-B17F-133D5B8E60FD}.Release|ARM.ActiveCfg = Release|Any CPU
+		{F3FC862A-F477-4562-B17F-133D5B8E60FD}.Release|x86.ActiveCfg = Release|Any CPU
+		{CA05AFCE-D949-4AB1-9BFA-682CA9C781E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA05AFCE-D949-4AB1-9BFA-682CA9C781E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA05AFCE-D949-4AB1-9BFA-682CA9C781E8}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{CA05AFCE-D949-4AB1-9BFA-682CA9C781E8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CA05AFCE-D949-4AB1-9BFA-682CA9C781E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA05AFCE-D949-4AB1-9BFA-682CA9C781E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA05AFCE-D949-4AB1-9BFA-682CA9C781E8}.Release|ARM.ActiveCfg = Release|Any CPU
+		{CA05AFCE-D949-4AB1-9BFA-682CA9C781E8}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
